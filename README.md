@@ -1,6 +1,6 @@
 # 🇰🇪 Kenya Census Data Analysis & Pipeline Project
 <p align="center">
-  <img src="banner.jpg" alt="Kenya Census Project Banner" width="100%">
+  <img src="banner.jpg" width="100%" alt="Kenya Census Project Banner">
 </p>
 
 This project takes raw 2019 Kenya census data, cleans it using Python, stores it in a relational database, and presents the insights through an interactive web app.
